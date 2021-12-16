@@ -136,8 +136,8 @@
           <skipReleaseMergeProdBranch>true</skipReleaseMergeProdBranch>
           <pushRemote>true</pushRemote>
           <gitFlowConfig>
-            <productionBranch>main</productionBranch>
-            <developmentBranch>main</developmentBranch>
+<!--            <productionBranch>main</productionBranch>-->
+<!--            <developmentBranch>main</developmentBranch>-->
             <featureBranchPrefix>feature/</featureBranchPrefix>
             <releaseBranchPrefix>release/</releaseBranchPrefix>
             <hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>

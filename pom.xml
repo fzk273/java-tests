@@ -128,7 +128,7 @@
         <artifactId>gitflow-maven-plugin</artifactId>
         <version>1.17.0</version>
         <configuration>
-
+          <fetchRemote>false</fetchRemote>
           <gitFlowConfig>
             <productionBranch>main</productionBranch>
             <developmentBranch>main</developmentBranch>

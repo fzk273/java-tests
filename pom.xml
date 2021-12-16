@@ -128,7 +128,7 @@
         <artifactId>gitflow-maven-plugin</artifactId>
         <version>1.17.0</version>
         <configuration>
-          <skipTestProject>true</skipTestProject>
+<!--          <skipTestProject>true</skipTestProject>-->
           <skipUpdateVersion>true</skipUpdateVersion>
           <installProject>false</installProject>
           <verbose>false</verbose>

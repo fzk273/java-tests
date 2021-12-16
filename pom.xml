@@ -130,6 +130,7 @@
         <configuration>
           <fetchRemote>false</fetchRemote>
           <pushRemote>false</pushRemote>
+          <skipTestProject>true</skipTestProject>
 <!--          <skipUpdateVersion>true</skipUpdateVersion>-->
           <allowSnapshots>false</allowSnapshots>
           <gitFlowConfig>

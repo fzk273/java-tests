@@ -129,6 +129,7 @@
         <version>1.17.0</version>
         <configuration>
           <fetchRemote>false</fetchRemote>
+          <pushRemote>false</pushRemote>
           <gitFlowConfig>
             <productionBranch>main</productionBranch>
             <developmentBranch>main</developmentBranch>

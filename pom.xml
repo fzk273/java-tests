@@ -131,7 +131,7 @@
           <fetchRemote>false</fetchRemote>
           <pushRemote>false</pushRemote>
           <skipTestProject>true</skipTestProject>
-          <versionProperty>$revision</versionProperty>
+          <versionProperty>revision</versionProperty>
           <skipUpdateVersion>true</skipUpdateVersion>
           <allowSnapshots>false</allowSnapshots>
           <gitFlowConfig>

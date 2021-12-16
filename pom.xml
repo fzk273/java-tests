@@ -131,7 +131,8 @@
 
           <installProject>false</installProject>
           <verbose>false</verbose>
-
+          <skipMergeDevBranch>true</skipMergeDevBranch>
+          <skipReleaseMergeProdBranch>true</skipReleaseMergeProdBranch>
           <gitFlowConfig>
             <productionBranch>main</productionBranch>
             <developmentBranch>main</developmentBranch>

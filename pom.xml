@@ -139,7 +139,7 @@
             <releaseBranchPrefix>release/</releaseBranchPrefix>
             <hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
             <supportBranchPrefix>support/</supportBranchPrefix>
-            <origin>origin</origin>
+            <origin>tst</origin>
           </gitFlowConfig>
 
           <commitMessages>

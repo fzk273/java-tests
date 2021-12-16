@@ -129,7 +129,7 @@
         <version>1.17.0</version>
         <configuration>
           <skipTestProject>true</skipTestProject>
-          <skipUpdateVersion>true</skipUpdateVersion
+          <skipUpdateVersion>true</skipUpdateVersion>
           <skipMergeDevBranch>true</skipMergeDevBranch>
           <skipReleaseMergeProdBranch>true</skipReleaseMergeProdBranch>
           <skipTag>true</skipTag>

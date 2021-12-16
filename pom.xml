@@ -134,7 +134,7 @@
 
           <gitFlowConfig>
             <productionBranch>main</productionBranch>
-            <developmentBranch>develop</developmentBranch>
+            <developmentBranch>main</developmentBranch>
             <featureBranchPrefix>feature/</featureBranchPrefix>
             <releaseBranchPrefix>release/</releaseBranchPrefix>
             <hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>

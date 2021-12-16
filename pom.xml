@@ -128,14 +128,7 @@
         <artifactId>gitflow-maven-plugin</artifactId>
         <version>1.17.0</version>
         <configuration>
-          <skipTestProject>true</skipTestProject>
-          <skipUpdateVersion>true</skipUpdateVersion>
-          <skipMergeDevBranch>true</skipMergeDevBranch>
-          <skipReleaseMergeProdBranch>true</skipReleaseMergeProdBranch>
-          <skipTag>true</skipTag>
-          <installProject>false</installProject>
-          <verbose>false</verbose>
-          <pushRemote>false</pushRemote>
+
           <gitFlowConfig>
             <productionBranch>main</productionBranch>
             <developmentBranch>main</developmentBranch>

@@ -131,7 +131,7 @@
           <fetchRemote>false</fetchRemote>
           <pushRemote>false</pushRemote>
           <skipTestProject>true</skipTestProject>
-<!--          <skipUpdateVersion>true</skipUpdateVersion>-->
+          <skipUpdateVersion>true</skipUpdateVersion>
           <allowSnapshots>false</allowSnapshots>
           <gitFlowConfig>
             <productionBranch>main</productionBranch>
